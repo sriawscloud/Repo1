@@ -1,3 +1,0 @@
-The second file is added to Repo1
-Added th second line
-checking the pre-commit

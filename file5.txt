@@ -1,1 +1,0 @@
-This is the testfile Commit to check the precommit hook.
