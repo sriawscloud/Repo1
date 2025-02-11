@@ -1,1 +1,2 @@
 Welcome to Git
+To check the pre-commit hook in my local system
