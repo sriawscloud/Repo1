@@ -2,4 +2,5 @@ The second file is added to Repo1
 Added th second line
 checking the pre-commit
 upating the commit and checking for the new one
+To check the new git hook
 New change Inserted
