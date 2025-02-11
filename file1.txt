@@ -1,5 +1,2 @@
 Welcome to Git
 Added the second line
-added on emore line
-Addign this line to check the pre-commit history hook
-Checking the feature branch
